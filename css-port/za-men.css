@@ -35,7 +35,7 @@ body {
     height: 500px;
     background-position: center;
     background-size: cover;
-    background-image: url(/pixed.jpg);
+    background-image: url(../pixed.jpg);
     color: white;
     display: flex;
     justify-content: center;
